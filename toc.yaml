@@ -1,0 +1,12 @@
+title: Пши джаз
+items:
+  - name: Джаз в тексте
+    href: index.md
+  - name: Концепции
+    items:
+      - name: Напряжение для спокойствия
+      - href: tension/tension.md
+  - name: Какая-то темка
+    items:
+      - name: 'Фразы'
+        href: pages/main.md

@@ -1,0 +1,6 @@
+title: Какая-то темка
+items:
+  - name: Фразы
+    href: main.md
+  - name: Тест
+    href: test_page.md
