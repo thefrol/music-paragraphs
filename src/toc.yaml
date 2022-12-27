@@ -1,0 +1,7 @@
+title: Моя музыка
+href: index.yaml
+items:
+  - name: Слушай
+    href: articles/0_listen.md
+  - name: О...
+    href: _about.md

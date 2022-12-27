@@ -1,0 +1,9 @@
+title: Моя музыка
+description: Что я хочу помнить о музыке. Советы себе, и идеи.
+meta:
+  title: Метаданные
+  noIndex: true
+links:
+- title: Слушай
+  description: главное музыкальное правило
+  href: articles/0_listen.md
