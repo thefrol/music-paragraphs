@@ -1,7 +1,9 @@
 title: Моя музыка
 href: index.yaml
 items:
-  - name: Слушай
-    href: articles/0_listen.md
+  - name: 1. Слушай
+    href: articles/listen.md
+  - name: 2. Колтрейн на районе
+    href: articles/na_rayone.md
   - name: О...
     href: _about.md
