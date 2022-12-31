@@ -5,7 +5,10 @@ items:
   - name: Концепции
     items:
       - name: Напряжение для спокойствия
-      - href: tension/tension.md
+        href: concepts/tension.md
+      - name: Мелодия и гармония в тексте
+        href: concepts/harmony-and-melody.md
+
   - name: Какая-то темка
     items:
       - name: 'Фразы'
