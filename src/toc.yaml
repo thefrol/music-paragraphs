@@ -2,10 +2,10 @@ title: Моя музыка
 href: index.yaml
 items:
   - name: 1. Слушай
-    href: articles/listen.md
+    href: ./articles/listen.md
   - name: 2. Колтрейн на районе
-    href: articles/na_rayone.md
+    href: ./articles/na_rayone.md
   - name: 3. Восемь тактов
-    href: articles/8-bars.md
+    href: ./articles/8-bars.md
   - name: О...
     href: _about.md
