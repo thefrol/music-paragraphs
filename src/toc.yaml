@@ -1,17 +1,7 @@
 title: Моя музыка
 href: index.yaml
 items:
-  - name: 1. Слушай
-    href: ./articles/listen.md
-  - name: 2. Колтрейн на районе
-    href: ./articles/na_rayone.md
-  - name: 3. Восемь тактов
-    href: ./articles/8-bars.md
-  - name: 4. ii 🍰 отрежь🔪 от V 🎂
-    href: ./articles/cut-ii-from-V.md
-  - name: 5. Расслабь челюсть
-    href: ./articles/relax-jaw.md
-  - name: 6. Жирные доли
-    href: ./articles/heavy-beats.md
+  - include: 
+      path: articles/toc.yaml
   - name: О...
     href: _about.md
